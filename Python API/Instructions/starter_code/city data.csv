@@ -1,0 +1,643 @@
+City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
+itoman,75,Japan,1562384725,88,26.12,26.12,80.6,9.17
+hasaki,75,Japan,1562384440,88,35.73,35.73,71.6,12.75
+naze,73,Japan,1562384725,97,5.43,5.43,71.69,3.83
+wajima,40,Japan,1562384725,69,37.4,37.4,77,8.05
+wakkanai,40,Japan,1562384725,72,45.41,45.41,64.4,17.22
+kushiro,75,Japan,1562384725,87,43.11,43.11,60.8,13.87
+shingu,75,Japan,1562384726,73,33.72,33.72,77,10.29
+miyako,40,Japan,1562384726,54,33.63,33.63,84.2,5.82
+katsuura,75,Japan,1562384440,69,33.93,33.93,78.8,9.17
+poum,0,New Caledonia,1562384726,82,41.28,41.28,57.2,3.36
+vao,70,New Caledonia,1562384455,95,59.1,59.1,48.65,4.52
+noumea,75,New Caledonia,1562384456,83,-22.28,-22.28,69.8,21.92
+pouebo,60,New Caledonia,1562384726,65,-20.4,-20.4,74.93,8.5
+leningradskiy,70,Russia Federation,1562384499,52,69.38,69.38,59.81,9.51
+nizhneyansk,,Russia Federation,,,,,,
+provideniya,0,Russia Federation,1562384420,68,64.42,64.42,59.09,6.4
+cherskiy,99,Russia Federation,1562384421,74,68.75,68.75,62.51,8.37
+novyy urengoy,17,Russia Federation,1562384727,50,66.08,66.08,60.71,18.97
+cheuskiny,,Russia Federation,,,,,,
+krasnooktyabrskiy,0,Russia Federation,1562384727,77,44.93,44.93,62.6,2.24
+amga,89,Russia Federation,1562384727,87,60.89,60.89,61.43,5.26
+nikolskoye,90,Russia Federation,1562384418,93,59.7,59.7,55,6.71
+barabinsk,67,Russia Federation,1562384727,75,55.35,55.35,68.27,7.74
+tiksi,75,Russia Federation,1562384417,72,71.64,71.64,44.87,7.43
+chagda,,Russia Federation,,,,,,
+ostrovnoy,100,Russia Federation,1562384333,94,68.05,68.05,47.75,8.28
+dikson,0,Russia Federation,1562384419,84,73.51,73.51,36.41,17.67
+karaul,,Russia Federation,,,,,,
+kadoshkino,96,Russia Federation,1562384728,85,54.03,54.03,55.49,9.48
+khatanga,85,Russia Federation,1562384420,53,71.98,71.98,51.71,13.67
+komsomolskiy,24,Russia Federation,1562384423,48,67.55,67.55,62.87,18.86
+lovozero,100,Russia Federation,1562384728,95,68.01,68.01,50.09,8.63
+amderma,,Russia Federation,,,,,,
+mys shmidta,,Russia Federation,,,,,,
+kurilsk,71,Russia Federation,1562384728,92,45.23,45.23,47.57,14.29
+staraya poltavka,0,Russia Federation,1562384729,57,50.48,50.48,64.49,3.67
+ozernovskiy,98,Russia Federation,1562384729,97,51.5,51.5,42.89,3.83
+chokurdakh,71,Russia Federation,1562384421,47,70.62,70.62,57.29,12.71
+severo-kurilsk,84,Russia Federation,1562384332,94,50.68,50.68,42.89,18.92
+belushya guba,,Russia Federation,,,,,,
+bagdarin,0,Russia Federation,1562384729,32,54.44,54.44,75.65,5.77
+nyurba,11,Russia Federation,1562384507,50,63.29,63.29,63.23,6.29
+koslan,88,Russia Federation,1562384729,93,63.46,63.46,56.93,2.04
+khandyga,87,Russia Federation,1562384730,70,62.65,62.65,60.17,12.68
+krasnoselkup,,Russia Federation,,,,,,
+saskylakh,100,Russia Federation,1562384327,84,71.97,71.97,41.27,10.98
+anadyr,20,Russia Federation,1562384509,81,64.73,64.73,51.8,31.32
+artyk,,Russia Federation,,,,,,
+yerbogachen,100,Russia Federation,1562384418,85,61.28,61.28,67.55,8.05
+eldikan,,Russia Federation,,,,,,
+gorno-chuyskiy,,Russia Federation,,,,,,
+kysyl-syr,34,Russia Federation,1562384422,79,63.9,63.9,59.81,5.44
+aleksandrov gay,0,Russia Federation,1562384730,53,50.14,50.14,65.03,4.34
+kamenskoye,,Russia Federation,,,,,,
+bilibino,35,Russia Federation,1562384731,29,68.06,68.06,72.95,13.06
+khonuu,,Russia Federation,,,,,,
+podyuga,73,Russia Federation,1562384731,88,61.09,61.09,50.99,4.92
+vanavara,100,Russia Federation,1562384731,65,60.35,60.35,71.15,11.48
+muzhi,100,Russia Federation,1562384731,67,65.4,65.4,58.19,17.27
+batagay-alyta,100,Russia Federation,1562384731,81,67.8,67.8,44.51,2.59
+tilichiki,96,Russia Federation,1562384509,67,60.47,60.47,57.11,9.17
+dauriya,66,Russia Federation,1562384732,51,49.93,49.93,59.99,14.5
+onega,17,Russia Federation,1562384732,91,63.91,63.91,51.89,3.91
+severo-yeniseyskiy,66,Russia Federation,1562384732,60,60.37,60.37,68.45,13.47
+kargasok,84,Russia Federation,1562384732,57,59.06,59.06,70.61,10.65
+arkhara,100,Russia Federation,1562384732,81,49.42,49.42,74.57,10.54
+deputatskiy,100,Russia Federation,1562384732,64,69.3,69.3,55.49,14.97
+osa,96,Russia Federation,1562384733,95,57.28,57.28,50.09,9.31
+svetlaya,67,Russia Federation,1562384733,59,46.54,46.54,69.71,6.49
+skalistyy,,Russia Federation,,,,,,
+turukhansk,100,Russia Federation,1562384733,68,65.8,65.8,71.15,7.78
+lavrentiya,0,Russia Federation,1562384733,46,65.58,65.58,68.63,6.82
+srednekolymsk,100,Russia Federation,1562384428,68,67.46,67.46,62.69,13.76
+privolzhye,62,Russia Federation,1562384733,74,52.86,52.86,58.37,3.58
+ossora,100,Russia Federation,1562384734,75,59.24,59.24,55.85,6.96
+egvekinot,86,Russia Federation,1562384421,85,66.32,66.32,49.01,17
+kadykchan,,Russia Federation,,,,,,
+tulun,100,Russia Federation,1562384734,97,54.56,54.56,60.17,7.18
+loukhi,100,Russia Federation,1562384734,98,66.08,66.08,48.83,9.53
+arman,100,Russia Federation,1562384734,63,59.7,59.7,56.21,8.79
+staryy nadym,0,Russia Federation,1562384734,46,65.61,65.61,63.05,17.6
+erzin,0,Russia Federation,1562384422,69,36.95,36.95,79,17.22
+severodvinsk,90,Russia Federation,1562384735,93,64.56,64.56,57.2,4.47
+tura,100,Russia Federation,1562384426,94,64.27,64.27,53.69,7.02
+aktash,,Russia Federation,,,,,,
+beringovskiy,100,Russia Federation,1562384423,64,63.05,63.05,59.27,10.04
+oktyabrskoye,20,Russia Federation,1562384735,73,56.73,56.73,69.8,11.18
+isilkul,85,Russia Federation,1562384735,89,54.9,54.9,65.21,9.28
+khani,0,Russia Federation,1562384423,94,41.96,41.96,68,2.24
+ekhabi,100,Russia Federation,1562384735,97,53.51,53.51,50.27,4.94
+krasnoborsk,23,Russia Federation,1562384736,92,61.56,61.56,52.61,6.46
+orlik,0,Russia Federation,1562384424,81,53.95,53.95,55,5.82
+zhigansk,91,Russia Federation,1562384427,68,66.77,66.77,56.03,9.48
+marfino,40,Russia Federation,1562384736,93,56.07,56.07,55.4,8.95
+seymchan,69,Russia Federation,1562384736,37,62.93,62.93,68.99,10.83
+uinskoye,16,Russia Federation,1562384736,91,56.88,56.88,51.71,9.28
+pevek,14,Russia Federation,1562384419,68,69.7,69.7,46.13,11.32
+udomlya,13,Russia Federation,1562384736,97,57.88,57.88,45.77,5.48
+okhotsk,100,Russia Federation,1562384506,89,59.36,59.36,49.01,9.75
+veseloyarsk,24,Russia Federation,1562384737,44,51.29,51.29,75.47,4.5
+alakurtti,100,Russia Federation,1562384737,95,66.96,66.96,45,5.28
+yar-sale,29,Russia Federation,1562384419,47,66.83,66.83,58.55,22.7
+koshurnikovo,18,Russia Federation,1562384737,88,54.3,54.3,62.51,6.02
+tigil,0,Russia Federation,1562384737,52,57.8,57.8,67.01,12.21
+qaanaaq,33,Greenland,1562384431,59,77.48,77.48,41.27,2.17
+illoqqortoormiut,,Greenland,,,,,,
+narsaq,23,Greenland,1562384431,75,60.91,60.91,46.4,2.24
+upernavik,100,Greenland,1562384431,74,72.79,72.79,42.35,9.73
+ilulissat,90,Greenland,1562384432,70,69.22,69.22,46.4,1.12
+tasiilaq,6,Greenland,1562384430,86,65.61,65.61,41,5.82
+qaqortoq,23,Greenland,1562384431,75,60.72,60.72,46.4,2.24
+nuuk,75,Greenland,1562384537,57,64.17,64.17,50,4.7
+nanortalik,65,Greenland,1562384341,77,60.14,60.14,42.17,6.6
+maniitsoq,97,Greenland,1562384432,78,65.42,65.42,43.79,4.68
+sisimiut,99,Greenland,1562384537,86,66.94,66.94,40.91,12.33
+busselton,67,Australia,1562384532,72,-33.64,-33.64,59,24.11
+hobart,20,Australia,1562384532,66,-42.88,-42.88,55.4,6.93
+port macquarie,75,Australia,1562384535,87,-31.43,-31.43,64.99,10.29
+esperance,90,Australia,1562384533,71,-33.86,-33.86,53.6,19.46
+new norfolk,20,Australia,1562384387,66,-42.78,-42.78,55.4,6.93
+albany,40,Australia,1562384532,69,42.65,42.65,80.6,10.29
+port lincoln,100,Australia,1562384536,70,-34.72,-34.72,62.69,16.51
+carnarvon,0,Australia,1562384534,59,-30.97,-30.97,43.43,7.65
+port hedland,6,Australia,1562384535,36,-20.31,-20.31,77,14.99
+warwick,90,Australia,1562384696,94,41.7,41.7,73.99,5.82
+roma,0,Australia,1562384714,83,41.89,41.89,73.99,3.36
+kawana waters,,Australia,,,,,,
+flinders,90,Australia,1562384536,67,-34.58,-34.58,64.99,8.05
+mackay,90,Australia,1562384533,82,53.65,53.65,57.2,5.82
+kununurra,0,Australia,1562384744,16,-15.77,-15.77,84.2,14.99
+broken hill,33,Australia,1562384535,40,-31.97,-31.97,69.8,19.46
+bowen,75,Australia,1562384745,73,-20.01,-20.01,78.01,13.87
+ingham,95,Australia,1562384745,76,-18.65,-18.65,70.97,3.22
+mount isa,40,Australia,1562384534,56,-20.73,-20.73,71.6,9.17
+jabiru,,Australia,,,,,,
+cairns,90,Australia,1562384388,65,-16.92,-16.92,79,12.75
+nelson bay,90,Australia,1562384745,68,-32.72,-32.72,66.99,11.41
+nhulunbuy,0,Australia,1562384533,34,-12.18,-12.18,82.4,10.29
+mount gambier,69,Australia,1562384535,63,-37.83,-37.83,62.6,19.46
+broome,0,Australia,1562384745,93,52.47,52.47,60.01,3.36
+wellington,0,Australia,1562384542,81,-41.29,-41.29,51.8,31.09
+ngukurr,,Australia,,,,,,
+port keats,0,Australia,1562384746,27,-14.25,-14.25,83.39,5.99
+launceston,88,Australia,1562384731,67,-41.43,-41.43,60.01,3.36
+nguiu,,Australia,,,,,,
+katherine,0,Australia,1562384746,17,-14.47,-14.47,86,11.41
+biloela,100,Australia,1562384746,61,-24.4,-24.4,66.65,18.92
+murwillumbah,40,Australia,1562384746,64,-28.33,-28.33,69.8,19.46
+port augusta,90,Australia,1562384534,49,-32.49,-32.49,69.8,17.22
+port elizabeth,1,South Africa,1562384394,94,39.31,39.31,79,6.87
+port alfred,4,South Africa,1562384522,55,-33.59,-33.59,57.99,8.01
+bredasdorp,38,South Africa,1562384394,87,-34.53,-34.53,53.01,4.7
+cape town,75,South Africa,1562384402,76,-33.93,-33.93,55.99,12.75
+hermanus,8,South Africa,1562384523,89,-34.42,-34.42,53.01,27.78
+kruisfontein,30,South Africa,1562384523,51,-34,-34,49.19,8.86
+saldanha,35,South Africa,1562384524,81,41.42,41.42,59.63,2.04
+margate,20,South Africa,1562384747,66,-43.03,-43.03,55.4,6.93
+east london,0,South Africa,1562384523,53,-33.02,-33.02,46.67,4.99
+vrede,0,South Africa,1562384747,96,-27.43,-27.43,33.35,4.34
+umzimvubu,,South Africa,,,,,,
+lydenburg,0,South Africa,1562384748,93,-25.1,-25.1,48.99,2.01
+abalak,100,Niger,1562384748,60,15.46,15.46,81.23,18.07
+tanout,100,Niger,1562384748,56,14.97,14.97,82.67,11.61
+bilma,67,Niger,1562384748,29,18.69,18.69,89.51,8.59
+diffa,94,Niger,1562384748,47,13.32,13.32,87.71,10.49
+madarounfa,100,Niger,1562384749,60,13.3,13.3,80.51,10.87
+asau,,Tuvalu,,,,,,
+lolua,,Tuvalu,,,,,,
+bethel,40,United States,1562384404,54,60.79,60.79,84.2,13.87
+kodiak,1,United States,1562384517,78,39.95,39.95,78.01,2.84
+hilo,90,United States,1562384517,65,19.71,19.71,82.4,13.87
+kapaa,1,United States,1562384345,74,22.08,22.08,82.4,6.93
+saint pete beach,1,United States,1562384749,78,27.73,27.73,82.99,3.36
+ahuimanu,90,United States,1562384749,83,21.44,21.44,84.2,9.17
+barrow,0,United States,1562384517,64,-38.31,-38.31,33.53,8.37
+mount pleasant,1,United States,1562384750,83,33.16,33.16,81,3.65
+jacksonville,1,United States,1562384586,94,30.33,30.33,77,1.74
+valley,0,United States,1562384750,93,47.9,47.9,61,1.12
+wenatchee,1,United States,1562384479,56,47.42,47.42,73,20.8
+kihei,40,United States,1562384750,55,20.76,20.76,87.8,11.41
+fairbanks,1,United States,1562384485,32,64.84,64.84,82.4,6.93
+fortuna,90,United States,1562384518,82,40.6,40.6,61,9.17
+pacific grove,90,United States,1562384750,82,36.62,36.62,66.99,9.17
+artesia,1,United States,1562384751,27,32.84,32.84,93.2,21.92
+douglas,1,United States,1562384751,37,58.28,58.28,82.4,4.7
+kenai,1,United States,1562384751,67,60.55,60.55,73.99,12.75
+lompoc,90,United States,1562384518,87,34.64,34.64,64.99,9.17
+sitka,55,United States,1562384520,84,37.17,37.17,66.83,33.87
+elizabeth city,1,United States,1562384751,83,36.3,36.3,80.6,5.82
+eloy,1,United States,1562384751,12,32.76,32.76,100,11.41
+gillette,1,United States,1562384752,82,44.29,44.29,60.01,3.36
+mountain home,1,United States,1562384752,16,43.13,43.13,86,9.17
+cortez,1,United States,1562384752,34,37.35,37.35,68,3.36
+homer,1,United States,1562384752,56,59.64,59.64,73.99,9.17
+virginia beach,75,United States,1562384238,78,36.85,36.85,81,6.93
+safford,20,United States,1562384752,29,32.83,32.83,87.8,13.87
+bossier city,1,United States,1562384752,88,32.52,32.52,82.4,4.7
+sterling,75,United States,1562384753,78,39,39,81,5.84
+nome,1,United States,1562384403,100,30.04,30.04,82.99,5.79
+nantucket,90,United States,1562384518,94,41.28,41.28,73.99,6.93
+mason city,1,United States,1562384753,100,43.15,43.15,75.2,3.36
+kahului,40,United States,1562384401,55,20.89,20.89,87.8,11.41
+freeport,69,United States,1562384721,75,26.54,26.54,84.47,14.29
+north bend,90,United States,1562384753,82,43.41,43.41,62.01,6.93
+astoria,90,United States,1562384753,77,46.19,46.19,63,4.7
+college,1,United States,1562384754,32,64.86,64.86,82.99,6.93
+winslow,0,United States,1562384754,82,51.94,51.94,60.8,8.05
+magnolia,12,United States,1562384754,88,33.27,33.27,80.6,3.69
+ketchikan,20,United States,1562384404,41,55.34,55.34,78.8,13.87
+rikitea,100,French Polynesia,1562384516,71,-23.12,-23.12,68.27,24.38
+mataura,43,French Polynesia,1562384409,79,-46.19,-46.19,51.01,8.01
+atuona,18,French Polynesia,1562384318,80,-9.8,-9.8,81.23,20.13
+fare,69,French Polynesia,1562384517,81,-16.7,-16.7,76.55,24.2
+faanui,95,French Polynesia,1562384516,81,-16.48,-16.48,76.91,22.55
+moerai,50,French Polynesia,1562384755,71,-22.43,-22.43,69.71,28.61
+avera,1,French Polynesia,1562384516,94,33.19,33.19,75.99,5.82
+necochea,1,Argentina,1562384755,86,-38.55,-38.55,39,1.01
+ushuaia,40,Argentina,1562384530,86,-54.81,-54.81,37.4,24.16
+mar del plata,33,Argentina,1562384530,82,-46.43,-46.43,39.47,13.24
+tucuman,0,Argentina,1562384755,51,-17.17,-17.17,47.75,1.57
+rawson,0,Argentina,1562384398,68,-43.3,-43.3,40.01,10.74
+comodoro rivadavia,0,Argentina,1562384755,61,-45.87,-45.87,50,19.46
+san juan,0,Argentina,1562384547,72,-31.54,-31.54,34.79,1.12
+boden,100,Sweden,1562384756,93,65.83,65.83,50,12.75
+varberg,100,Sweden,1562384558,81,57.11,57.11,55.99,6.93
+vaini,90,Tonga,1562384342,88,15.34,15.34,73.4,17.22
+heihe,75,China,1562384756,100,50.24,50.24,64.4,6.71
+dalian,0,China,1562384756,63,19.86,19.86,91.4,4.47
+juegang,0,China,1562384756,62,32.31,32.31,93,1.01
+guangyuan,100,China,1562384756,69,32.43,32.43,86,2.48
+jiuquan,100,China,1562384757,25,39.73,39.73,76.37,13.98
+dali,0,China,1562384757,23,34.79,34.79,83.39,11.07
+choucheng,,China,,,,,,
+benxi,75,China,1562384757,45,41.29,41.29,82.4,6.71
+xinmin,75,China,1562384757,45,42,42,82.4,6.71
+loudi,49,China,1562384757,66,27.73,27.73,86.27,7.34
+dashitou,100,China,1562384757,70,43.3,43.3,75.11,9.55
+guilin,90,China,1562384758,94,25.28,25.28,78.8,4.47
+aksu,0,China,1562384758,50,52.04,52.04,77,11.18
+hami,100,China,1562384400,27,42.84,42.84,83.57,13.65
+beian,75,China,1562384758,93,63.66,63.66,48.2,2.24
+yanji,98,China,1562384758,71,42.89,42.89,69.89,7.87
+chaohu,0,China,1562384758,59,31.63,31.63,89.6,6.71
+yongan,27,China,1562384759,33,39.7,39.7,69.53,13.27
+maoming,100,China,1562384541,68,21.67,21.67,88.97,10.49
+korla,,China,,,,,,
+yumen,100,China,1562384759,23,40.29,40.29,80.69,23.53
+jingdezhen,83,China,1562384759,80,29.29,29.29,81.95,4.83
+dafeng,24,China,1562384759,45,33.2,33.2,87.17,10.51
+lasa,0,China,1562384542,68,34.92,34.92,73.4,6.93
+datong,0,China,1562384760,31,40.09,40.09,65.21,17.85
+wuxue,6,China,1562384760,62,29.85,29.85,88.25,4.59
+mullaitivu,,Sri Lanka,,,,,,
+hambantota,75,Sri Lanka,1562384760,84,6.12,6.12,86,14.99
+trincomalee,55,Sri Lanka,1562384760,55,8.58,8.58,87.35,9.84
+batticaloa,100,Sri Lanka,1562384761,58,7.71,7.71,84.83,3.15
+faya,0,Chad,1562384761,37,18.39,18.39,71.6,1.45
+am timan,100,Chad,1562384761,80,11.04,11.04,72.95,5.19
+oum hadjer,80,Chad,1562384761,57,13.3,13.3,84.29,8.39
+guayaramerin,51,Bolivia,1562384761,61,-10.82,-10.82,70.07,8.25
+tupiza,2,Bolivia,1562384761,12,-21.44,-21.44,39.11,6.67
+mapiri,100,Bolivia,1562384761,99,-15.31,-15.31,49.55,3.15
+tagusao,75,Philippines,1562384762,70,9.19,9.19,83.21,6.35
+sarangani,38,Philippines,1562384762,75,5.4,5.4,81.05,0.47
+san vicente,90,Philippines,1562384762,88,-0.59,-0.59,73.4,9.17
+laiya,20,Philippines,1562384762,62,-5.07,-5.07,86,3.36
+san policarpo,76,Philippines,1562384417,72,12.18,12.18,84.29,9.75
+pundaguitan,74,Philippines,1562384762,75,6.37,6.37,81.77,3.42
+sulangan,38,Philippines,1562384763,70,11.14,11.14,84.11,5.06
+cortes,84,Philippines,1562384763,73,9.28,9.28,83.03,5.75
+olafsvik,,Iceland,,,,,,
+grindavik,0,Iceland,1562384454,93,63.84,63.84,46.4,6.93
+hofn,3,Iceland,1562384454,82,64.25,64.25,36.05,14.97
+husavik,100,Iceland,1562384763,44,50.56,50.56,63,6.78
+vestmannaeyjar,0,Iceland,1562384365,83,63.44,63.44,52.97,6.62
+yellowknife,75,Canada,1562384510,72,62.45,62.45,64.4,8.05
+torbay,90,Canada,1562384511,93,47.66,47.66,52,3.36
+tuktoyaktuk,90,Canada,1562384292,87,69.44,69.44,51.8,25.28
+thompson,40,Canada,1562384290,59,55.74,55.74,62.6,2.24
+sioux lookout,90,Canada,1562384764,51,50.1,50.1,60.8,5.82
+shellbrook,75,Canada,1562384764,63,53.22,53.22,60.8,3.36
+bay roberts,90,Canada,1562384764,93,47.58,47.58,52,3.36
+havre-saint-pierre,75,Canada,1562384384,87,50.23,50.23,59,5.82
+attawapiskat,,Canada,,,,,,
+port hardy,90,Canada,1562384764,77,50.7,50.7,60.8,10.29
+burns lake,36,Canada,1562384764,53,54.23,54.23,62.87,4.74
+geraldton,75,Canada,1562384511,42,49.72,49.72,66.2,6.93
+clyde river,90,Canada,1562384512,100,70.47,70.47,35.6,9.17
+meadow lake,54,Canada,1562384765,69,54.13,54.13,59.45,3.11
+hay river,75,Canada,1562384383,56,60.82,60.82,68,5.82
+quesnel,20,Canada,1562384704,63,52.98,52.98,64.4,5.82
+iqaluit,90,Canada,1562384294,100,63.75,63.75,37.4,9.17
+the pas,1,Canada,1562384765,55,53.82,53.82,62.6,5.26
+norman wells,75,Canada,1562384372,56,65.28,65.28,71.6,3.36
+stephenville crossing,20,Canada,1562384765,82,48.5,48.5,59,4.7
+bonavista,2,Canada,1562384765,83,48.65,48.65,46.99,4
+flin flon,30,Canada,1562384383,42,54.77,54.77,61.25,3.53
+melita,0,Canada,1562384766,82,49.27,49.27,63,7.11
+rosetown,100,Canada,1562384766,83,51.55,51.55,59,1.99
+mayo,40,Canada,1562384383,28,63.59,63.59,80.6,12.75
+haines junction,95,Canada,1562384766,46,60.75,60.75,72.77,2.13
+shelburne,20,Canada,1562384767,88,44.08,44.08,78.01,4.76
+peachland,90,Canada,1562384767,93,49.77,49.77,60.01,2.24
+saint-augustin,75,Canada,1562384767,94,45.63,45.63,79,5.32
+cap-aux-meules,100,Canada,1562384767,82,47.38,47.38,62.69,5.64
+aklavik,90,Canada,1562384512,76,68.22,68.22,57.2,13.87
+thessalon,1,Canada,1562384767,88,46.26,46.26,64.4,4.7
+jamestown,38,Saint Helena,1562384410,55,-33.21,-33.21,65.57,17.27
+georgetown,75,Saint Helena,1562384524,94,6.8,6.8,75.2,2.24
+gandajika,0,"Congo, The Democratic Republic of ",1562384768,38,-6.75,-6.75,62.33,4.94
+aketi,100,"Congo, The Democratic Republic of ",1562384768,98,2.74,2.74,70.07,0.78
+moba,0,"Congo, The Democratic Republic of ",1562384768,62,-7.04,-7.04,57.65,2.84
+kasongo-lunda,0,"Congo, The Democratic Republic of ",1562384768,44,-6.48,-6.48,61.97,2.37
+san patricio,0,Mexico,1562384447,77,-26.98,-26.98,36.05,4.38
+motozintla,,Mexico,,,,,,
+cabo san lucas,5,Mexico,1562384213,37,22.89,22.89,86,6.93
+lazaro cardenas,40,Mexico,1562384770,39,28.39,28.39,78.8,10.29
+san quintin,46,Mexico,1562384448,73,17.54,17.54,85.37,10.42
+mexticacan,75,Mexico,1562384770,49,21.27,21.27,69.8,6.93
+coahuayana,77,Mexico,1562384447,81,18.62,18.62,76.37,2.01
+xadani,,Mexico,,,,,,
+guerrero negro,0,Mexico,1562384448,87,27.97,27.97,64.67,19.26
+matamoros,20,Mexico,1562384514,88,25.87,25.87,82.99,6.93
+maneadero,,Mexico,,,,,,
+puerto escondido,40,Mexico,1562384770,78,15.86,15.86,78.8,6.93
+nortelandia,3,Brazil,1562384771,75,-14.45,-14.45,58.73,6.24
+medina,0,Brazil,1562384537,24,24.47,24.47,89.6,4.7
+guajara-mirim,,Brazil,,,,,,
+tome-acu,,Brazil,,,,,,
+rio negrinho,0,Brazil,1562384771,66,-26.26,-26.26,48,10
+amapa,13,Brazil,1562384434,98,15.09,15.09,67.73,2.06
+sao joao da barra,68,Brazil,1562384434,90,-21.64,-21.64,64.85,2.04
+laguna,20,Brazil,1562384436,94,16.17,16.17,80.6,2.39
+vila velha,40,Brazil,1562384528,74,-3.71,-3.71,86,5.82
+arraial do cabo,100,Brazil,1562384433,79,-22.97,-22.97,66.65,13.4
+carauari,0,Brazil,1562384528,90,-4.88,-4.88,73.31,0.78
+envira,,Brazil,,,,,,
+ilhabela,82,Brazil,1562384432,66,-23.78,-23.78,65.39,18.95
+cidreira,100,Brazil,1562384433,78,-30.17,-30.17,47.75,20.85
+maceio,0,Brazil,1562384414,88,-9.67,-9.67,73.4,3.36
+jardim,0,Brazil,1562384772,72,-21.48,-21.48,47.21,6.29
+caravelas,0,Brazil,1562384437,85,-17.73,-17.73,75.65,11.56
+diamantino,0,Brazil,1562384435,76,-14.4,-14.4,59.81,7.14
+boa vista,0,Brazil,1562384772,78,2.82,2.82,80.6,5.82
+morros,0,Brazil,1562384772,88,-2.87,-2.87,78.8,5.82
+trairi,8,Brazil,1562384773,95,-3.28,-3.28,71.69,4.52
+capitao poco,7,Brazil,1562384773,98,-1.75,-1.75,72.59,3.42
+rolim de moura,,Brazil,,,,,,
+cabedelo,20,Brazil,1562384529,94,-6.97,-6.97,71.6,2.24
+tapaua,,Brazil,,,,,,
+altamira,0,Brazil,1562384773,89,-3.2,-3.2,73.49,1.81
+rio grande,88,Brazil,1562384433,77,-32.03,-32.03,42.71,12.15
+tefe,0,Brazil,1562384773,90,-3.35,-3.35,74.39,2.3
+monte alegre,20,Brazil,1562384774,88,-6.07,-6.07,73.4,3.36
+irituia,7,Brazil,1562384774,98,-1.77,-1.77,72.59,3.42
+itamaraju,0,Brazil,1562384569,89,-17.04,-17.04,69.35,3.98
+champerico,75,Guatemala,1562384774,61,16.38,16.38,82.4,8.05
+san jose,75,Guatemala,1562384353,73,14.25,14.25,77,9.17
+manzil tamim,,Tunisia,,,,,,
+punta arenas,0,Chile,1562384509,75,-53.16,-53.16,42.8,23.04
+lebu,90,Chile,1562384392,87,8.96,8.96,55.4,6.93
+constitucion,90,Chile,1562384774,68,23.99,23.99,69.01,9.17
+vallenar,5,Chile,1562384775,94,-28.58,-28.58,46.85,2.46
+coquimbo,90,Chile,1562384509,93,-29.95,-29.95,55.99,3.36
+ancud,90,Chile,1562384392,100,-41.87,-41.87,42.8,5.82
+castro,90,Chile,1562384510,100,-42.48,-42.48,42.8,5.82
+talcahuano,17,Chile,1562384775,63,-36.72,-36.72,55.49,9.01
+ovalle,100,Chile,1562384510,76,-30.6,-30.6,52.43,1.92
+tocopilla,63,Chile,1562384775,79,-22.09,-22.09,58.55,0.83
+butaritari,61,Kiribati,1562384412,71,3.07,3.07,84.83,7.11
+ijaki,,Kiribati,,,,,,
+aduturai,100,India,1562384775,50,11.01,11.01,86.81,12.77
+madras,1,India,1562384776,25,44.63,44.63,78.01,8.05
+kollam,40,India,1562384776,83,8.88,8.88,84.2,4.7
+kavaratti,40,India,1562384452,74,10.57,10.57,86,16.11
+ponnani,75,India,1562384776,88,10.77,10.77,82.4,4.7
+haldia,100,India,1562384776,72,22.03,22.03,86.63,6.87
+lakheri,92,India,1562384776,70,25.67,25.67,84.11,8.14
+gangotri,,India,,,,,,
+along,75,India,1562384453,92,28.17,28.17,68.09,4.07
+narasaraopet,100,India,1562384777,68,16.24,16.24,81.41,12.41
+kattivakkam,75,India,1562384777,55,13.22,13.22,89.6,10.29
+allapalli,100,India,1562384777,90,19.43,19.43,76.19,7.43
+port blair,100,India,1562384452,80,11.67,11.67,83.57,19.35
+tuatapere,72,New Zealand,1562384777,79,-46.13,-46.13,51.01,8.01
+christchurch,100,New Zealand,1562384765,81,-43.53,-43.53,52,11.41
+dunedin,0,New Zealand,1562384591,63,-45.87,-45.87,53.01,18.01
+bluff,92,New Zealand,1562384778,78,-23.58,-23.58,65.93,26.13
+kaitangata,44,New Zealand,1562384778,78,-46.28,-46.28,48.47,7.16
+ngunguru,2,New Zealand,1562384778,59,-35.62,-35.62,59,5.01
+ahipara,58,New Zealand,1562384778,100,-35.17,-35.17,59,11.56
+ranfurly,100,New Zealand,1562384778,89,53.41,53.41,56.21,2.19
+labutta,,Myanmar,,,,,,
+lata,19,Solomon Islands,1562384456,82,30.78,30.78,49.55,4.32
+honiara,75,Solomon Islands,1562384779,63,-9.43,-9.43,91.4,18.34
+auki,100,Solomon Islands,1562384779,81,12.18,12.18,75.65,4.79
+kirakira,95,Solomon Islands,1562384779,65,-10.46,-10.46,83.75,16.22
+buala,100,Solomon Islands,1562384456,76,-8.15,-8.15,83.03,12.21
+adrar,0,Algeria,1562384443,11,27.87,27.87,89.6,17.22
+warqla,,Algeria,,,,,,
+birin,44,Algeria,1562384779,79,26.89,26.89,71.87,4.83
+atar,0,Mauritania,1562384313,25,20.52,20.52,92.75,6.33
+nouakchott,0,Mauritania,1562384573,83,18.08,18.08,73.4,12.75
+maghama,,Mauritania,,,,,,
+bambous virieux,40,Mauritius,1562384306,69,-20.34,-20.34,73.4,10.29
+souillac,0,Mauritius,1562384525,60,45.6,45.6,73.4,3.36
+mahebourg,40,Mauritius,1562384306,69,-20.41,-20.41,73.4,10.29
+grand river south east,,Mauritius,,,,,,
+quatre cocos,40,Mauritius,1562384397,69,-20.21,-20.21,73.4,10.29
+cap malheureux,40,Mauritius,1562384525,69,-19.98,-19.98,73.4,10.29
+grand gaube,40,Mauritius,1562384306,69,-20.01,-20.01,73.4,10.29
+berlevag,100,Norway,1562384780,96,70.86,70.86,44.33,10.42
+sistranda,75,Norway,1562384780,93,63.73,63.73,48.2,2.24
+vardo,1,Norway,1562384781,88,39.62,39.62,75.99,3.96
+andenes,,Norway,,,,,,
+tromso,75,Norway,1562384781,87,69.65,69.65,48.2,18.34
+henties bay,0,Namibia,1562384781,95,-22.12,-22.12,48,9.62
+luderitz,0,Namibia,1562384449,93,-26.65,-26.65,50,3.36
+rundu,0,Namibia,1562384781,37,-17.91,-17.91,53.6,3.36
+hithadhoo,96,Maldives,1562384459,71,-0.6,-0.6,83.93,8.81
+kudahuvadhoo,100,Maldives,1562384782,69,2.67,2.67,83.93,4.7
+viligili,,Maldives,,,,,,
+hobyo,100,Somalia,1562384451,72,5.35,5.35,77.81,16.11
+mogadishu,55,Somalia,1562384181,83,2.04,2.04,76.73,14.34
+berbera,,Somalia,,,,,,
+eyl,100,Somalia,1562384782,65,7.98,7.98,77.99,28.41
+stornoway,,United Kingdom,,,,,,
+brae,71,United Kingdom,1562384782,93,60.4,60.4,50,20.8
+skegness,0,United Kingdom,1562384782,87,53.14,53.14,61,5.82
+doctor pedro p. pena,,Paraguay,,,,,,
+puerto ayora,67,Ecuador,1562384437,95,-0.74,-0.74,70,8.19
+portovelo,100,Ecuador,1562384783,96,-3.72,-3.72,68.27,1.07
+salinas,1,Ecuador,1562384438,77,36.67,36.67,70,11.41
+san cristobal,0,Ecuador,1562384438,77,14.68,14.68,68.09,5.59
+calatayud,0,Spain,1562384783,94,41.35,41.35,75.2,3.36
+nijar,20,Spain,1562384783,83,36.97,36.97,75.2,4.7
+naron,0,Spain,1562384783,100,43.52,43.52,64,2.24
+medina del campo,0,Spain,1562384784,71,41.31,41.31,64.99,2.24
+aguimes,20,Spain,1562384379,77,27.91,27.91,69.8,18.34
+puerto del rosario,40,Spain,1562384784,73,28.5,28.5,71.6,16.11
+hazorasp,0,Uzbekistan,1562384784,45,41.32,41.32,82.4,11.41
+romitan,0,Uzbekistan,1562384784,37,39.93,39.93,84.2,6.93
+kitob,0,Uzbekistan,1562384784,34,39.12,39.12,80.6,9.17
+avarua,0,Cook Islands,1562384527,60,-21.21,-21.21,73.4,17.22
+longyearbyen,40,Svalbard and Jan Mayen,1562384342,66,78.22,78.22,55.4,13.87
+barentsburg,,Svalbard and Jan Mayen,,,,,,
+padang,39,Indonesia,1562384323,75,-0.92,-0.92,81.77,7.14
+panji,0,Indonesia,1562384785,48,32.78,32.78,92.03,11.7
+bengkalis,,Indonesia,,,,,,
+gorontalo,28,Indonesia,1562384785,70,0.54,0.54,83.21,10.42
+sumbawa,,Indonesia,,,,,,
+bengkulu,,Indonesia,,,,,,
+waingapu,14,Indonesia,1562384323,57,-9.65,-9.65,77.81,17.65
+merauke,100,Indonesia,1562384785,79,-8.49,-8.49,76.73,13.96
+singaraja,14,Indonesia,1562384786,69,-8.11,-8.11,78.35,4.03
+sungairaya,0,Indonesia,1562384786,77,0.7,0.7,83.03,8.77
+palabuhanratu,,Indonesia,,,,,,
+banda aceh,82,Indonesia,1562384786,70,5.56,5.56,83.39,4.18
+tual,90,Indonesia,1562384323,80,-5.67,-5.67,78.17,15.75
+pontianak,0,Indonesia,1562384786,79,-0.02,-0.02,81.05,4.68
+meulaboh,100,Indonesia,1562384787,79,4.14,4.14,81.05,4.38
+kendari,36,Indonesia,1562384787,64,-3.99,-3.99,80.33,3.98
+sorong,99,Indonesia,1562384787,89,-0.86,-0.86,79.25,6.89
+cockburn town,1,Turks and Caicos Islands,1562384787,77,21.46,21.46,82.67,23.02
+lima,90,Peru,1562384639,88,-12.06,-12.06,62.6,11.41
+torata,90,Peru,1562384787,33,-3.6,-3.6,89.6,2.24
+pimentel,0,Peru,1562384339,96,-3.7,-3.7,72.05,2.46
+acari,0,Peru,1562384788,70,-6.44,-6.44,74.39,6.08
+chicama,75,Peru,1562384788,93,-7.84,-7.84,62.6,8.05
+marcona,,Peru,,,,,,
+pisco,90,Peru,1562384788,77,-13.71,-13.71,64.4,6.93
+ambovombe,0,Madagascar,1562384788,77,-25.18,-25.18,70.61,7.99
+taolanaro,,Madagascar,,,,,,
+tsihombe,,Madagascar,,,,,,
+beloha,0,Madagascar,1562384788,89,-25.17,-25.17,60.17,2.57
+antalaha,12,Madagascar,1562384539,95,-14.9,-14.9,61.61,4.14
+morondava,0,Madagascar,1562384789,74,-20.3,-20.3,70.97,5.19
+sambava,8,Madagascar,1562384338,83,-14.27,-14.27,64.67,3.27
+ambilobe,23,Madagascar,1562384789,72,-13.19,-13.19,70.25,6.24
+monrovia,75,Liberia,1562384789,94,6.33,6.33,75.2,4.7
+salalah,90,Oman,1562384789,94,17.01,17.01,82.4,3.36
+sur,100,Oman,1562384789,43,22.57,22.57,92.57,3.38
+seoul,1,"Korea, Republic of",1562384563,40,37.57,37.57,91.4,5.82
+orgun,,Afghanistan,,,,,,
+gat,40,Libyan Arab Jamahiriya,1562384790,78,14.69,14.69,75.2,4.7
+waddan,0,Libyan Arab Jamahiriya,1562384790,53,29.16,29.16,73.13,5.61
+marzuq,24,Libyan Arab Jamahiriya,1562384790,51,14.4,14.4,75.29,5.82
+surt,0,Libyan Arab Jamahiriya,1562384790,76,31.21,31.21,76.91,1.43
+awbari,0,Libyan Arab Jamahiriya,1562384790,18,26.59,26.59,80.15,6.96
+phan thiet,13,Vietnam,1562384791,58,10.93,10.93,87.17,8.75
+buon me thuot,,Vietnam,,,,,,
+tay ninh,0,Vietnam,1562384791,72,11.3,11.3,84.83,5.59
+ha tinh,100,Vietnam,1562384791,54,18.33,18.33,92.03,4.5
+yen bai,100,Vietnam,1562384791,62,21.7,21.7,87.71,2.24
+hoa binh,20,Vietnam,1562384550,66,20.81,20.81,91.4,2.24
+petauke,0,Zambia,1562384791,61,-14.25,-14.25,54.77,1.16
+bela,70,Pakistan,1562384792,69,26.23,26.23,81.23,3.51
+dalbandin,0,Pakistan,1562384792,8,28.9,28.9,89.15,5.57
+jauharabad,2,Pakistan,1562384792,25,32.29,32.29,97.07,7.54
+chitral,1,Pakistan,1562384792,49,35.85,35.85,48.11,4.85
+gwadar,100,Pakistan,1562384792,78,25.12,25.12,83.75,5.3
+kohlu,0,Pakistan,1562384792,33,29.9,29.9,89.51,5.88
+dedougou,99,Burkina Faso,1562384793,63,12.47,12.47,80.51,6.44
+emba,0,Kazakstan,1562384793,68,34.81,34.81,73.4,6.93
+inderborskiy,,Kazakstan,,,,,,
+zyryanovsk,22,Kazakstan,1562384793,66,49.74,49.74,63.77,3.71
+oytal,0,Kazakstan,1562384793,30,42.91,42.91,80.15,3.31
+beyneu,0,Kazakstan,1562384793,42,45.32,45.32,81.77,16.6
+kazalinsk,,Kazakstan,,,,,,
+shubarkuduk,0,Kazakstan,1562384794,55,49.15,49.15,65.21,9.95
+bestobe,33,Kazakstan,1562384794,36,52.5,52.5,77.99,6.62
+shieli,0,Kazakstan,1562384794,21,44.18,44.18,86.99,4.03
+saleaula,,Samoa,,,,,,
+lufilufi,40,Samoa,1562384794,66,-13.87,-13.87,87.8,18.34
+samatau,,Samoa,,,,,,
+samusu,,Samoa,,,,,,
+tricase,5,Italy,1562384794,78,39.93,39.93,78.01,11.41
+trebisacce,0,Italy,1562384795,56,39.87,39.87,73,4.63
+lethem,100,Guyana,1562384795,86,3.38,3.38,76.19,8.68
+camacupa,13,Angola,1562384795,60,-12.02,-12.02,50.99,1.61
+namibe,0,Angola,1562384795,78,-15.19,-15.19,68.63,3.06
+soyo,38,Angola,1562384795,82,-6.13,-6.13,72.95,7.94
+luena,0,Angola,1562384795,63,-11.78,-11.78,50.81,2.35
+sumbe,77,Angola,1562384795,83,-11.2,-11.2,70.97,5.88
+chiang klang,40,Thailand,1562384796,70,19.29,19.29,84.2,9.17
+nan,40,Thailand,1562384796,70,18.78,18.78,84.2,9.17
+saint-joseph,0,Reunion,1562384796,83,43.56,43.56,75.2,3.36
+saint-philippe,1,Reunion,1562384796,73,45.36,45.36,79,5.82
+chuy,64,Uruguay,1562384796,71,-33.69,-33.69,46.67,17.54
+rio branco,90,Uruguay,1562384796,100,-9.98,-9.98,64.4,10.29
+cumaribo,,Colombia,,,,,,
+mitu,0,Colombia,1562384797,46,36.2,36.2,66.47,3.27
+san andres,78,Colombia,1562384797,77,13.32,13.32,83.93,7.14
+lagoa,0,Portugal,1562384319,82,37.14,37.14,64.4,9.17
+praia da vitoria,75,Portugal,1562384797,88,38.73,38.73,64.99,10.13
+ribeira grande,30,Portugal,1562384319,75,38.52,38.52,69.17,7.11
+vila franca do campo,20,Portugal,1562384319,82,37.72,37.72,60.8,2.24
+birao,90,Central African Republic,1562384797,86,10.3,10.3,71.51,5.59
+ponta do sol,80,Cape Verde,1562384798,94,-20.63,-20.63,56.93,7.38
+sao filipe,2,Cape Verde,1562384798,85,14.9,14.9,72.77,16.4
+keningau,75,Malaysia,1562384798,63,5.33,5.33,91.4,5.82
+maarianhamina,,Finland,,,,,,
+mustasaari,90,Finland,1562384798,93,63.17,63.17,55,4.7
+kristiinankaupunki,,Finland,,,,,,
+salcininkai,75,Lithuania,1562384798,87,54.3,54.3,53.01,12.75
+riyadh,0,Saudi Arabia,1562384799,12,24.63,24.63,84.2,4.7
+umm lajj,0,Saudi Arabia,1562384799,74,25.02,25.02,83.57,12.03
+turayf,0,Saudi Arabia,1562384799,46,31.68,31.68,73.4,9.17
+guasdualito,20,Venezuela,1562384799,100,7.24,7.24,75.2,2.71
+villa del rosario,0,Venezuela,1562384799,62,-31.55,-31.55,41,9.17
+ciudad bolivar,19,Venezuela,1562384799,84,8.12,8.12,77.81,10.63
+hagere hiywet,32,Ethiopia,1562384800,95,8.98,8.98,52.07,2.57
+templin,0,Germany,1562384800,82,53.12,53.12,60.01,2.24
+rahden,75,Germany,1562384800,93,52.43,52.43,57,2.24
+idlib,0,Syrian Arab Republic,1562384800,69,35.93,35.93,79,17.22
+alofi,0,Niue,1562384800,65,-19.06,-19.06,77,16.11
+vila,0,Vanuatu,1562384801,88,45.18,45.18,75.99,3.36
+isangel,40,Vanuatu,1562384801,58,-19.55,-19.55,82.4,17.22
+manyana,90,Botswana,1562384801,67,-35.26,-35.26,64,8.05
+kanye,0,Botswana,1562384801,51,-24.98,-24.98,40.01,4.65
+balad,83,Iraq,1562384801,58,-6.76,-6.76,79.43,3.29
+akdagmadeni,38,Turkey,1562384801,96,39.66,39.66,55.85,4.07
+manavgat,0,Turkey,1562384802,33,36.79,36.79,86,9.17
+airai,0,Palau,1562384603,43,-8.93,-8.93,81.05,4.83
+lorengau,22,Papua New Guinea,1562384320,67,-2.02,-2.02,84.11,4.03
+kieta,100,Papua New Guinea,1562384320,71,-6.22,-6.22,84.29,15.84
+kandrian,35,Papua New Guinea,1562384802,69,-6.21,-6.21,83.21,9.66
+kavieng,87,Papua New Guinea,1562384320,71,-2.57,-2.57,83.93,9.19
+kiunga,94,Papua New Guinea,1562384802,71,-6.12,-6.12,81.41,2.13
+lae,40,Papua New Guinea,1562384802,62,-6.72,-6.72,84.2,20.8
+ialibu,97,Papua New Guinea,1562384803,94,-6.28,-6.28,69.53,2.66
+vanimo,64,Papua New Guinea,1562384320,71,-2.67,-2.67,81.77,5.57
+samarai,63,Papua New Guinea,1562384803,74,-10.62,-10.62,80.69,6.98
+kimbe,39,Papua New Guinea,1562384803,63,-5.56,-5.56,88.25,2.26
+halalo,,Wallis and Futuna,,,,,,
+vaitupu,,Wallis and Futuna,,,,,,
+jiroft,,"Iran, Islamic Republic of",,,,,,
+susangerd,0,"Iran, Islamic Republic of",1562384803,30,31.56,31.56,86,4.7
+masjed-e soleyman,,"Iran, Islamic Republic of",,,,,,
+doha,0,Kuwait,1562384757,41,25.29,25.29,96.8,11.41
+dinguiraye,100,Guinea,1562384804,96,11.29,11.29,71.33,2.37
+lapas,75,Greece,1562384804,88,39.49,39.49,64.4,3.36
+skhisma,0,Greece,1562384804,60,35.27,35.27,82,4.7
+limon,90,Costa Rica,1562384804,43,39.26,39.26,71.01,18.34
+santa cruz,0,Costa Rica,1562384645,92,-6.22,-6.22,68.27,5.06
+hillsborough,90,Grenada,1562384792,93,37.57,37.57,63,7.45
+soni,63,"Tanzania, United Republic of",1562384804,98,-4.85,-4.85,63.95,4.72
+matongo,0,"Tanzania, United Republic of",1562384805,82,-3.07,-3.07,55.67,2.44
+maposeni,0,"Tanzania, United Republic of",1562384805,85,-10.58,-10.58,55.31,2.13
+madimba,75,"Tanzania, United Republic of",1562384805,100,4.42,4.42,77,2.24
+asfi,,Morocco,,,,,,
+tsevie,20,Togo,1562384805,94,6.43,6.43,77,6.93
+bafoulabe,100,Mali,1562384805,68,13.81,13.81,79.97,14.74
+nioro,88,Mali,1562384806,71,13.79,13.79,78.17,8.1
+wa,,Ghana,,,,,,
+axim,74,Ghana,1562384806,90,4.87,4.87,75.47,8.63
+prestea,99,Ghana,1562384806,98,5.43,5.43,71.33,3.29
+nam tha,,"Lao, People's Democratic Republic",,,,,,
+ahtopol,0,Bulgaria,1562384806,88,42.1,42.1,66.99,5.82
+cap-haitien,4,Haiti,1562384591,78,19.76,19.76,82.67,23.6
+osypenko,75,Ukraine,1562384806,88,48.04,48.04,62.6,4.47
+zaporizhzhya,75,Ukraine,1562384807,88,47.82,47.82,64.4,13.42
+sorvag,,Faroe Islands,,,,,,
+vagur,2,Faroe Islands,1562384807,83,61.47,61.47,47.39,17.58
+vestmanna,100,Faroe Islands,1562384807,81,62.16,62.16,44.6,19.46
+draguignan,0,France,1562384807,83,43.54,43.54,75.2,3.36
+goderich,37,Sierra Leone,1562384807,86,43.74,43.74,73.99,7.76
+peyima,100,Sierra Leone,1562384808,99,8.69,8.69,70.25,2.73
+pujehun,100,Sierra Leone,1562384808,96,7.36,7.36,74.03,4.14
+saint george,20,Bermuda,1562384350,82,39.45,39.45,75.99,2.15
+hamilton,90,Bermuda,1562384121,100,43.26,43.26,80.01,5.82
+tonj,,Sudan,,,,,,
+ler,75,Sudan,1562384808,93,63.2,63.2,48.2,2.73
+marawi,100,Sudan,1562384349,80,8,8,84,5.01
+juba,75,Sudan,1562384808,100,57.82,57.82,50,9.17
+barbar,,Sudan,,,,,,
+juifang,,"Taiwan, Province of China",,,,,,
+niquero,0,Cuba,1562384809,70,20.04,20.04,85.01,9.98
+ulaangom,14,Mongolia,1562384809,38,49.98,49.98,72.59,4.14
+darhan,0,Mongolia,1562384809,43,49.49,49.49,70.61,4.85
+victoria,75,Seychelles,1562384571,66,5.28,5.28,89.6,4.7
+kitgum,100,Uganda,1562384809,95,3.3,3.3,67.01,3
+tete,40,Mozambique,1562384809,93,-16.16,-16.16,51.8,3.36
+quelimane,0,Mozambique,1562384809,95,-17.88,-17.88,59.63,2.91
+skibbereen,40,Ireland,1562384810,87,51.55,51.55,55.4,10.29
+cayenne,90,French Guiana,1562384661,100,4.94,4.94,73.4,3.27
+aswan,0,Egypt,1562384810,20,24.09,24.09,78.35,8.39
+safaga,,Egypt,,,,,,
+metapan,0,El Salvador,1562384705,1,14.33,14.33,75,5.99
+alice town,76,Bahamas,1562384810,74,25.72,25.72,83.93,9.57
+dunmore town,3,Bahamas,1562384810,79,25.5,25.5,82.85,14.94
+road town,90,"Virgin Islands, British",1562384785,74,18.42,18.42,82.99,11.41
+barahona,0,Dominican Republic,1562384811,76,18.21,18.21,75.11,3.24
+bandraboua,75,Mayotte,1562384811,88,-12.7,-12.7,78.8,12.75
+the valley,40,Anguilla,1562384811,69,18.22,18.22,82.4,14.99
+tchollire,100,Cameroon,1562384811,94,8.4,8.4,72.77,2.39
+miquelon,100,Saint Pierre and Miquelon,1562384811,79,47.1,47.1,54.77,12.88
+hwange,0,Zimbabwe,1562384811,40,-18.35,-18.35,49.01,3.67
+belize,,Belize,,,,,,
+artyom,90,Azerbaijan,1562384812,93,43.36,43.36,60.8,8.95
+durres,0,Albania,1562384812,88,41.32,41.32,69.8,2.24
+codrington,75,Antigua and Barbuda,1562384812,68,-28.95,-28.95,68,11.41
